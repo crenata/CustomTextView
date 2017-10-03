@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Custom TextView Library</string>
+    
+    <string name="lobster_regular">fonts/Lobster-Regular.ttf</string>
+</resources>
