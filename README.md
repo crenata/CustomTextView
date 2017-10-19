@@ -1,4 +1,4 @@
 # CustomTextView
 Simple library to change font of TextView
 
-caibga dxashui xai bxayidgb iaysgxb asbxsau dvgyas gxudabx ygwsi agixbsadbxa xawgbsyxu yabx as
+Library yang memudahkan dalam mengganti jenis font pada TextView
